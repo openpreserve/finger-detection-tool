@@ -1,2 +1,2 @@
-fingerprint-detection-tool
+finger-detection-tool
 ==========================
